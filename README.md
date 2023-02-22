@@ -1,16 +1,19 @@
 # Prazer, sou a Sté! 🤓
-## Estudante de Sistemas de Informação apaixonada em tecnologias e me aventurando no mundo Front-End.
+###### Estudante de Sistemas de Informação apaixonada em tecnologias e me aventurando no mundo Front-End.
 
 🤓 Graduanda em Sistemas de Informação na UNIFAFIBE
+
 👩🏼‍💻 Apaixonada por Front-End e UI Design
+
 🧠 Amo compartilhar meus conhecimentos com as pessoas
 
-## Feramentas e Tecnologias
+
+### Feramentas e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 
-## Contatos:
+### Contatos:
 
 <div>
 <a href="https://www.twitch.tv/codigodaste" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
