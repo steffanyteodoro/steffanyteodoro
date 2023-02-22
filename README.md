@@ -1,8 +1,9 @@
 # Prazer, sou a Sté! 🤓
 ## Estudante de Sistemas de Informação apaixonada em tecnologias e me aventurando no mundo Front-End.
 
-- 👩🏼‍💻 Front-End 
-- 🧠 Amo compartilhar meus conhecimentos com as pessoas
+🤓 Graduanda em Sistemas de Informação na UNIFAFIBE
+👩🏼‍💻 Apaixonada por Front-End e UI Design
+🧠 Amo compartilhar meus conhecimentos com as pessoas
 
 ## Contatos:
 
@@ -12,10 +13,4 @@
 <a href="https://www.twitch.tv/codigodaste" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:steffany.dev@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/steffanydev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-<div>
-<a href="https://github.com/steffany-dev">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steffany-dev&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=steffany-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
