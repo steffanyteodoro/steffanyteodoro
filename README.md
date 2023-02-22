@@ -2,9 +2,7 @@
 ###### Estudante de Sistemas de Informação apaixonada em tecnologias e me aventurando no mundo Front-End.
 
 🤓 Graduanda em Sistemas de Informação na UNIFAFIBE
-
 👩🏼‍💻 Apaixonada por Front-End e UI Design
-
 🧠 Amo compartilhar meus conhecimentos com as pessoas
 
 
