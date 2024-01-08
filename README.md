@@ -2,7 +2,7 @@
 #### Estudante de Sistemas de Informação apaixonada em tecnologias.
 
 👩🏼‍🎓 Graduanda em Sistemas de Informação na UNIFAFIBE  
-🎲 Apaixonada por Dados 
+👩🏼‍💻 Desenvolvedora Front-End
 
 #### 💬 Contatos:
 <div>
