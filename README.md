@@ -1,8 +1,5 @@
 ## Prazer, sou a Sté <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
-#### Estudante de Sistemas de Informação apaixonada em tecnologias.
-
-👩🏼‍🎓 Graduanda em Sistemas de Informação na UNIFAFIBE  
-👩🏼‍💻 Desenvolvedora
+#### Analista de Suporte JR na Linx e estudante de Sistema de Informação apaixonada em tecnologias.
 
 #### 💬 Contatos:
 <div>
