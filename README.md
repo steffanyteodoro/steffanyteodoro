@@ -1,5 +1,5 @@
 ## Prazer, sou a Sté <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
-#### Analista de Suporte JR na Linx e estudante de Sistema de Informação apaixonada em tecnologias.
+#### Analista JR I - Suporte na Linx e estudante de Sistema de Informação apaixonada em tecnologias.
 
 #### 💬 Contatos:
 <div>
