@@ -1,5 +1,5 @@
 ## Prazer, sou a Sté <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
-#### Analista JR I - Suporte na Linx e estudante de Sistema de Informação apaixonada em tecnologias.
+#### Assistente de T.I. - Auxilio no desenvolvimento e criação de dashboards no Power BI para inteligência nas farmácias. Bacharel Sistema de Informação e cursando Pós graduação na Rocketseat.
 
 #### 💬 Contatos:
 <div>
