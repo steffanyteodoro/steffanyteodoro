@@ -1,6 +1,6 @@
 ## 👋 Prazer, sou a Sté Teodoro
 
-🚀 **Assistente de TI no setor farmacêutico**
+🚀 **Assistente de TI no setor farmacêutico**  
 🎓 **Bacharel em Sistemas de Informação** | 💻 **Pós-graduanda Tech Developer 360 (Rocketseat)**
 
 Sou apaixonada por transformar dados em decisões inteligentes e por criar soluções que otimizam processos. Atuo na construção de dashboards em **Power BI** focados em inteligência de mercado, e também no desenvolvimento de aplicações sob medida com tecnologias web.
