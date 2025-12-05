@@ -1,39 +1,78 @@
-## 👋 Prazer, sou a Sté Teodoro
+# 👋 Olá! Eu sou a **Sté Teodoro**
 
-🚀 **Assistente de TI no setor farmacêutico**  
-🎓 **Bacharel em Sistemas de Informação** | 💻 **Pós-graduanda Tech Developer 360 (Rocketseat)**
+🚀 **Consultora de Desenvolvimento na Sênior Sistemas**  
+🤖 **Pós-graduanda em Inteligência Artificial e Automação**  
+🎓 **Bacharel em Sistemas de Informação**
 
-Sou apaixonada por transformar dados em decisões inteligentes e por criar soluções que otimizam processos. Atuo na construção de dashboards em **Power BI** focados em inteligência de mercado, e também no desenvolvimento de aplicações sob medida com tecnologias web.
+Sou apaixonada por criar **soluções tecnológicas que transformam dados em decisões estratégicas**. Minha atuação une desenvolvimento de software, IA, automação, dados e experiência do usuário — sempre com foco em clareza, eficiência e impacto real.
 
-Tenho experiência com:
-- 📊 **Business Intelligence**: Power BI, modelagem de dados, DAX e integração com ERP
-- 🌐 **Desenvolvimento Web**: JavaScript, React, Node.js e TypeScript
-- 🧠 **Automação de Processos**: Criação de bots e integração com APIs
-- 🎨 **UX/UI e Design**: prototipagem no Figma com foco na experiência do usuário
-
-### ✨ Algumas conquistas que me definem:
-- 🏆 Melhor TCC da minha formação técnica (2018): sistema completo para clínicas veterinárias, desenvolvido com **VB.NET**, **SQL Server** e **Figma**
-- 📈 Ferramentas que impactam diretamente na **tomada de decisão** nas farmácias
-- 🧪 Prototipagem e testes rápidos de soluções com foco em resultados reais
+Atualmente, estudo temas como **Machine Learning**, **Processamento de Linguagem Natural (PLN)** e **automação com Python**, buscando construir sistemas mais inteligentes e autônomos que otimizem processos e impulsionem resultados.
 
 ---
 
-### 💬 Onde me encontrar:
+## 🧠 Sobre mim
 
-<div style="display: flex; flex-direction: row; gap: 10px;">
-  <a href="mailto:steffany.dev@icloud.com"><img src="https://img.shields.io/badge/Icloud-D14836?style=for-the-badge&logo=icloud&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/steffanyteodoro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/steffanyteodoro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.youtube.com/@codigodaste7685" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.twitch.tv/codigodaste" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-</div>
+- 💡 Acredito que tecnologia só faz sentido quando **simplifica o complexo** e melhora a vida das pessoas.  
+- 📚 Sou movida por compartilhar conhecimento e apoiar o crescimento de outras pessoas.  
+- 🔧 Trabalho diariamente com: integrações, APIs, automações, pipelines de dados, UX/UI e soluções customizadas.  
 
 ---
 
-### 🌱 Em constante aprendizado
-Atualmente estudando tecnologias full stack para me tornar uma desenvolvedora mais completa, com foco em criar aplicações modernas, escaláveis e com ótima experiência para o usuário.
+## 🛠️ Tecnologias & Habilidades
+
+### **Backend & Integrações**
+- Python • Node.js • LSP (Sênior Sistemas)  
+- SQL Server • PostgreSQL  
+- REST • SOAP • Webhooks  
+- Automação: n8n, Make, Power Automate  
+
+### **Frontend & Desenvolvimento Web**
+- JavaScript • TypeScript  
+- React • Next.js  
+- HTML • CSS  
+
+### **Dados & Inteligência**
+- Power BI • DAX • Modelagem  
+- ETL • Integração com ERPs  
+- Análise orientada à decisão  
+
+### **Design & Experiência**
+- Figma  
+- Arquitetura de interfaces  
+- UX/UI com foco em usabilidade  
 
 ---
 
-### ✨ Vamos construir algo incrível juntos?
-Sinta-se à vontade para me chamar para **colaborações**, **mentorias** ou **projetos open source**. Adoro trocar experiências e aprender em comunidade!
+## ✨ Conquistas & Destaques
+
+- 🛠️ Desenvolvimento de integrações inteligentes no ERP Sênior (HCM, BPM, G5, APIs e regras LSP)  
+- 🤖 Projetos acadêmicos envolvendo IA e automação avançada  
+- 🧪 Prototipagem rápida e validação de ideias com foco em resultados  
+- 📚 Mentorias e iniciativas de ensino em tecnologia  
+- 🏆 TCC premiado (2018): Sistema completo para clínicas veterinárias (VB.NET + SQL Server + Figma)  
+
+---
+
+## 🌎 Onde me encontrar
+
+[![Email](https://img.shields.io/badge/iCloud-D14836?style=for-the-badge&logo=icloud&logoColor=white)](mailto:steffany.dev@icloud.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steffanyteodoro/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/steffanyteodoro/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codigodaste7685)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/codigodaste)
+
+---
+
+## 🌱 Em constante evolução
+
+Estou sempre explorando novas tecnologias para criar soluções mais modernas, inteligentes e eficientes.  
+Seja com IA, integrações, automações ou desenvolvimento full stack — **minha missão é transformar complexidade em valor**.
+
+---
+
+## 🤝 Vamos construir algo incrível?
+
+Estou aberta para **colaborações**, **projetos open source**, **mentorias** e conexões com pessoas que acreditam no poder da tecnologia para transformar o futuro.
+
+> ✨ *"Tecnologia é a ferramenta que simplifica o complexo e amplifica o impacto."*
+
